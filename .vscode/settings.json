@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/ackerman/.local/share/virtualenvs/lead_manager-tRbIZL-e/bin/python",
+    "python.formatting.provider": "black"
+}
